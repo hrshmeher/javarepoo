@@ -15,7 +15,7 @@ public class basics1 {
 		while (c*c<=n) {
 			if(n%c ==0) {
 				System.out.println("not prime");
-				return;
+			return;
 				
 		}
 			c = c + 1;
