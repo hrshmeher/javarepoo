@@ -23,7 +23,7 @@ public class basics1 {
 		}
 		   if (c * c > n) {
 	            System.out.println("Prime");
-	}
+	 } 
 
 }
 	
