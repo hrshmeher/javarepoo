@@ -17,7 +17,7 @@ public class basics1 {
 				System.out.println("not prime");
 				return;
 				
-			}
+		}
 			c = c + 1;
 			// c++;			
 		}
